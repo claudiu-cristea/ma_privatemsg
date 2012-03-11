@@ -1,0 +1,7 @@
+<?php
+
+// Drupal needs this blank file.
+
+function ma_privatemsg_init() {
+  drupal_add_css(drupal_get_path('module', 'ma_privatemsg') .'/ma_privatemsg.css');
+}
