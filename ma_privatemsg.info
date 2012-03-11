@@ -1,5 +1,5 @@
 name = "MA Privatemsg"
-description = "Private messaging feature for Atrium."
+description = "Private messaging feature for Open Atrium."
 core = "6.x"
 package = "Features"
 version = "6.x-1.0"
